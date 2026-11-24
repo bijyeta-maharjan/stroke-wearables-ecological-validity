@@ -34,8 +34,7 @@ moves their arm **in the lab** reflect how much they actually use it **at home**
 
 ## Key finding
 
-Lab measures **predict home use for the stroke-affected arm (R² up to 0.62)** but **not for the
-unaffected arm**. In-clinic sensor assessments can be trusted as a proxy for real-world use of the
+Lab measures **predict home use for the stroke-affected arm** but **not for the unaffected arm**. In-clinic sensor assessments can be trusted as a proxy for real-world use of the
 impaired arm. The less-affected arm behaves differently at home than in a structured clinic setting.
 
 ### Demo output (synthetic data, not study results)
@@ -93,6 +92,11 @@ python run_all.py
 
 `data/`, `results/`, and all `.csv`/`.dat` files are git-ignored so that participant data
 cannot be committed by accident.
+
+## Acknowledgements
+
+Data were collected by the Advanced Human and Health Analytics (AHHA) Lab. The analysis, code,
+and conclusions in this repository are my own.
 
 ## Tech
 
