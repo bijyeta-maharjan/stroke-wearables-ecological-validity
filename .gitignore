@@ -1,0 +1,22 @@
+# ── Participant data must never be committed ─────────────────────────────
+data/
+*.dat
+*.csv
+*.xlsx
+*.xls
+*.mat
+*.parquet
+
+# Generated outputs (re-create with `python run_all.py`)
+results/
+
+# Python / OS / editor
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+.Rhistory
+.vscode/
+.idea/
