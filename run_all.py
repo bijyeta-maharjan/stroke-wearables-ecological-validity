@@ -35,7 +35,7 @@ PIPELINE = [
 # ══════════════════════════════════════════════════════════════════════════════
 
 print("=" * 60)
-print("AHHA LAB — ECOLOGICAL VALIDITY ANALYSIS PIPELINE")
+print("LAB vs HOME ARM USE ANALYSIS PIPELINE")
 print("=" * 60)
 print(f"\nRunning {len(PIPELINE)} scripts in sequence...\n")
 

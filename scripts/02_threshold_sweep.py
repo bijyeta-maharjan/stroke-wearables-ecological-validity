@@ -45,7 +45,7 @@ OUTPUTS:
         Columns: threshold, pearson_r, r_squared, p_correlation, t_stat, p_ttest, means_comparable
 
 Author: Bijju
-Project: AHHA Lab – Stroke Rehabilitation Ecological Validity Study
+Project: Lab vs Home Arm Use After Stroke
 """
 
 import sys

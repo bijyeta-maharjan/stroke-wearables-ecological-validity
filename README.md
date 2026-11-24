@@ -1,11 +1,10 @@
 # Do Clinic Arm Assessments Reflect Arm Use at Home After Stroke?
 
-Independent research on wearable sensors and real-world arm use after stroke, carried out at the
-**Advanced Human and Health Analytics (AHHA) Lab**.
+Independent research project on wearable sensors and real-world arm use after stroke.
 
 > **Privacy notice:** This repository contains **analysis code only**. No participant data,
 > clinical scores, per-participant results, or figures made from study data are included.
-> The data are protected health information and stay on lab systems.
+> The data are protected health information and are not shared.
 > A **synthetic data generator** is included so the full pipeline can be run and inspected.
 
 ---
@@ -85,7 +84,7 @@ python tools/make_synthetic_data.py   # writes a fake dataset to data/ (git-igno
 python run_all.py                     # tables -> results/tables, figures -> results/figures
 ```
 
-To run on real data (lab members only), point the pipeline at it without copying it into the repo:
+To run on your own data, point the pipeline at it without copying it into the repo:
 
 ```bash
 export ARMUSE_DATA_DIR=/path/to/data   # expects in-lab/, real-world/, clinical_scores.csv

@@ -10,7 +10,7 @@ Functions:
   - filter_inactive_epochs()   — Remove sedentary/non-wear epochs using an activity threshold
 
 Author: Bijju
-Project: AHHA Lab – Stroke Rehabilitation Ecological Validity Study
+Project: Lab vs Home Arm Use After Stroke
 """
 
 import numpy as np

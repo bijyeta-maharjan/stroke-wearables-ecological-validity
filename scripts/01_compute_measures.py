@@ -31,7 +31,7 @@ KEY DECISIONS:
       for the use_duration and use_ratio measures.
 
 Author: Bijju
-Project: AHHA Lab – Stroke Rehabilitation Ecological Validity Study
+Project: Lab vs Home Arm Use After Stroke
 """
 
 import sys
