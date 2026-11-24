@@ -2,6 +2,8 @@
 
 Independent research project on wearable sensors and real-world arm use after stroke.
 
+📄 **[Read the research report (PDF)](report/Research_Report.pdf)**
+
 > **Privacy notice:** This repository contains **analysis code only**. No participant data,
 > clinical scores, per-participant results, or figures made from study data are included.
 > The data are protected health information and are not shared.
