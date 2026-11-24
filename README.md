@@ -95,7 +95,7 @@ cannot be committed by accident.
 
 ## Acknowledgements
 
-Data were collected by the Advanced Human and Health Analytics (AHHA) Lab. The analysis, code,
+Data were collected by the Advanced Human and Health Analytics (AHHA) Lab at UMass. The analysis, code,
 and conclusions in this repository are my own.
 
 ## Tech
